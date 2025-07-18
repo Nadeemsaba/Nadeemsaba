@@ -2,14 +2,11 @@
 
 🎓 Aspiring Software Developer with a passion for clean design, logic, and real-world problem-solving.  
 💡 Always exploring ways to build engaging, interactive, and useful applications.  
-🛠️ Currently enhancing my skills in **Frontend Development** and **Python scripting**.
-
+🛠️ Currently enhancing my skills in **Software Development** and **Software Testing**.
 🔍 I enjoy working with:
 - **HTML, CSS, JavaScript**
-- **Python**
-- Fun mini-projects like [Number Guessing](https://github.com/Nadeemsaba/Number-Guessing), [Rock-Paper-Scissors](https://github.com/Nadeemsaba/Rock-Paper-Scissors), and [Spotify Clone](https://github.com/Nadeemsaba/Spotify-clone)
-- Real-life utility tools like [SCT_SD_01](https://github.com/Nadeemsaba/SCT_SD_01), built during my internship at SkillCraft Technology
-
+- **Python**,**C**,**C++**,**Java**
+- Also researching on testing tools like **Selenium**,**JUnit**,**Postman**
 📫 Reach me at:  
 📧 **nadeemsaba.work@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/nadeemsaba/)
