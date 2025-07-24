@@ -44,7 +44,8 @@
 
 ![Nadeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nadeemsaba&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadeemsaba&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nadeemsaba&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nadeemsaba&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 
 ---
