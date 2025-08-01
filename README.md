@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nadeem Saba
 
-🎓 Aspiring Software Developer with a passion for clean design, logic, and real-world problem-solving.  
+🎓 Aspiring Software Developer with a passion for clean design, logic, and real-world problem-solving.
 💡 Always exploring ways to build engaging, interactive, and useful applications.  
 🛠️ Currently enhancing my skills in **Software Development** and **Software Testing**.
 🔍 I enjoy working with:
