@@ -44,7 +44,7 @@
 
 ![Nadeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nadeemsaba&show_icons=true&theme=radical)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadeemsaba&layout=compact&theme=radical)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nadeemsaba&theme=radical&hide_border=false&cache_seconds=10)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nadeemsaba&theme=radical&hide_border=false&cache_seconds=30)<br/>
 
 
 ---
